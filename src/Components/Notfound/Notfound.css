@@ -1,0 +1,15 @@
+.not-found{
+text-align:center;
+
+}
+
+.not-found p{
+   color: brown;
+   margin-top: 40vh;
+   font-size: 50px;
+}
+.not-found span{
+    display: block;
+    margin-top: 10px;
+
+}

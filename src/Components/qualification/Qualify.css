@@ -1,0 +1,70 @@
+.d-flex{
+    display: flex;
+}
+.box1{
+    padding: 18px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: rgba(169, 169, 169, 0.582);
+    margin-left: 20px;
+    width:18%;
+}
+
+.marks p{
+    padding-top: 10px;
+    width: 100%;
+    color: darkgreen;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+p.marks{
+    padding-top: 10px;
+    width: 100%;
+    color: darkgreen;
+    font-size: 20px;
+    font-weight: 700;
+    padding-bottom: 2px;
+
+}
+
+
+label.subjects {
+    padding-left: 7px;
+    padding-right: 10px;
+    padding-top: 17px;
+    font-weight: 700;
+    font-size: 18px;
+    /* padding-bottom: 21px; */
+}
+input#hobby {
+    MARGIN-TOP: 24px;
+    /* padding-top: 10px; */
+}
+#matric h4{
+    font-size: 25px;
+}
+#matric {
+    width: 70%;
+}
+#matric h1{
+    font-size: 40px;
+}
+button.done {
+    margin-bottom: 30px;
+    background-color: green;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+    padding: 9px;
+    margin-top: 42px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+#btn{
+    margin-top: 42px;
+}
+.footer{
+    justify-content: space-evenly;
+}

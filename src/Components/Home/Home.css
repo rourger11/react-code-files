@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+section{
+    text-align: center;
+}
+
+.login_page{
+  
+border: 2px solid rgba(0, 0, 0, 0.342);
+width: 50%;
+margin: 0px auto;
+background: rgba(88, 88, 88, 0.171);
+margin-top: 5%;
+box-shadow: 0px 4px 15px 2px;
+border-radius: 10px;
+border-style: none;
+margin-bottom: 50px;
+}
+
+.login_page h4{
+    padding:2%;
+
+}
+.box{
+    padding: 15px;
+margin-left: 10px;
+width: 91%;
+border-radius: 5px;
+border-style: none;
+background-color: rgba(169, 169, 169, 0.582);
+
+
+}
+
+.login_page h1{
+    text-align: center;
+    color: green;
+    padding-top: 3%;
+}
+#button {
+    margin-bottom: 5%;
+background-color:green;
+width: 14%;
+font-size: 20px;
+font-weight: 500;
+border: none;
+margin-left: 41%;
+padding: 1%;
+margin-top: 5%;
+border-radius: 5px;
+color: aliceblue;
+}
+
+
+.login_page p{
+    color: brown;
+    margin-left: 2%;
+}

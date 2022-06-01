@@ -1,0 +1,21 @@
+#Male{
+    margin-left: 2%;
+}
+#fmale{
+    margin-left: 2%;
+}
+.multi {
+    background-color: darkgrey;
+}
+
+.main{
+    height: auto;
+}
+.d-flex{
+    display: flex;
+    margin-left: 2%;
+}
+
+.check_button{
+    margin-left: 2%;
+}
